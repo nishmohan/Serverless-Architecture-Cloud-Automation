@@ -1,7 +1,6 @@
-
-Automated Instance Management Using AWS Lambda and Boto3
+## Automated Instance Management Using AWS Lambda and Boto3
 Lambda function has been created which is managing the EC2 instances automatically.
-Objective
+# Objective
 In this assignment, you will gain hands-on experience with AWS Lambda and Boto3, Amazon's SDK for Python. You will create a Lambda function that will automatically manage EC2 instances based on their tags.
 
 # Setup EC2 Instances:
