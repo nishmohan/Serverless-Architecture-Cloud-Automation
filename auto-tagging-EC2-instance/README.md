@@ -49,5 +49,9 @@ print(f"Successfully tagged instance(s): {instances} on {current_date}")
 # Setup Amazon EventBridge Rule:
 -	I went Amazon EventBridge screen then select Rule and clicked on Create button.
 -	Enter name “TagNewEC2Instances-mlal”
--	Event Source: AWS events or EventBridge default bus-	
+-	Event Source: AWS events or EventBridge default bus-
+
+-	<img width="1862" height="830" alt="image" src="https://github.com/user-attachments/assets/b5f5d5d9-1a98-4a58-aa39-ed655b8b34b0" />
+
+
 
