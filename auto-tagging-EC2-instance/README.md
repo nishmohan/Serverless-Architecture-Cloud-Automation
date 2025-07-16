@@ -53,5 +53,16 @@ print(f"Successfully tagged instance(s): {instances} on {current_date}")
 
 -	<img width="1862" height="830" alt="image" src="https://github.com/user-attachments/assets/b5f5d5d9-1a98-4a58-aa39-ed655b8b34b0" />
 
+# Create new EC2 Instance
+- Go to Launch Instance screen
+- Enter name of instance
+- Select Security Key
+- Assign the Key file.
+- Then launch the instance and wait for 2-3 minutes then I can the tagging added to instance.
+- For more reference check below screen shots:
+<img width="1920" height="915" alt="Firefox_Screenshot_2025-07-03T15-07-18 544Z" src="https://github.com/user-attachments/assets/fa62ba3f-2032-449f-8709-23055410cc85" />
+
+
+
 
 
